@@ -1,1 +1,2 @@
 Java:syso"hello world!"
+database:select * from world
